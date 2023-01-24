@@ -1,0 +1,7 @@
+C:\Users\jody_\source\repos\PetShop\obj\Debug\PetShop.csproj.AssemblyReference.cache
+C:\Users\jody_\source\repos\PetShop\obj\Debug\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\jody_\source\repos\PetShop\bin\Debug\PetShop.exe.config
+C:\Users\jody_\source\repos\PetShop\bin\Debug\PetShop.exe
+C:\Users\jody_\source\repos\PetShop\bin\Debug\PetShop.pdb
+C:\Users\jody_\source\repos\PetShop\obj\Debug\PetShop.exe
+C:\Users\jody_\source\repos\PetShop\obj\Debug\PetShop.pdb
